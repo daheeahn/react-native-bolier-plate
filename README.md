@@ -20,7 +20,9 @@ And If you want, change your app name
 
 ## Library
 
-- react-navigation
+- react-native: version 0.61.5
+
+- react-navigation: version 5.0.0 (not using 4)
 
 - styled-components
 
