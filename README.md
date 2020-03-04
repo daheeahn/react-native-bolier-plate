@@ -11,6 +11,13 @@ react native bolier plate with react-navigation
 
 `npm i && cd ios && pod install && cd ..`
 
+And If you want, change your app name
+
+- change value of `"name"` in `./package.json`
+
+- change value of "name" and `"displayName"` in `./app.json`
+
+
 ## Library
 
 - react-navigation
