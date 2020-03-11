@@ -1,5 +1,6 @@
 # react-native-bolier-plate
-react native bolier plate with react-navigation
+
+react native bolier plate with react-navigation, styled-components
 
 ## Installation
 
@@ -7,7 +8,9 @@ react native bolier plate with react-navigation
 
 `git remote add YOUR_REMOTE_NAME YOUR_REPOSITORY_URL`
 
-`// ex) git remote add origin2 https://github.com/daheeahn/react-native-bolier-plate`
+`// ex) git remote remove origin`
+
+`// ex) git remote add origin YOUR_REPOSITORY_URL`
 
 `npm i && cd ios && pod install && cd ..`
 
@@ -16,7 +19,6 @@ And If you want, change your app name
 - change value of `"name"` in `./package.json`
 
 - change value of `"name"` and `"displayName"` in `./app.json`
-
 
 ## Library
 
